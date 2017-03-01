@@ -1,8 +1,8 @@
 """
 The NetworkNode class represents a single node in a Network.
 
-Adam Eck
-02/11/2017
+Seraphina Nix
+10 February 2017
 """
 
 class NetworkNode():

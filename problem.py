@@ -2,8 +2,8 @@
 The Model class represents the problem model used by the agent
 to find a path from the start state to a goal state
 
-Adam Eck
-02/11/2017
+Seraphina Nix
+10 Febraury 2017
 """
 
 

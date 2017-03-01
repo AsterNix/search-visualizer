@@ -1,8 +1,8 @@
 """
 Main represents the main execution flow of the program
 
-Adam Eck
-02/11/2017
+Seraphina Nix
+10 February 2017
 """
 
 import astar
